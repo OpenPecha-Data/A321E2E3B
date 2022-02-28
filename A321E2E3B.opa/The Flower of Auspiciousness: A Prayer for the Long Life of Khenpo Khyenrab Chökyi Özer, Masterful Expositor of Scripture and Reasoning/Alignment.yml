@@ -1,0 +1,28 @@
+segment_sources:
+  PD5DF595F:
+    type: origin_type
+    relation: translation
+    language: en
+  PE34E2A4E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fc26739d2e0f49a5aec8f67378ef3c51:
+    PD5DF595F: 59b51102b97f4ac9bda1dbe377d089fa
+    PE34E2A4E: 9b5fcefdae1047658fff1dfde31acb43
+  d4a7976868114227b7cf641aa52b9168:
+    PD5DF595F: 56fdb75b3eb24e6b8f94f3c6f5b01bcd
+    PE34E2A4E: 88accf9752414b0695492710296eb02a
+  ab3d674ed8354bed928db6cb1a59efbc:
+    PD5DF595F: f1a04681d2034590951da2038f3708bf
+    PE34E2A4E: eb1e240c31d14aa3a07f63af155860d1
+  07488d27ff4e45528f3215d2a89535b7:
+    PD5DF595F: ea222f230d72455d9f59b846ec8c0910
+    PE34E2A4E: d6a092261d4b48e3950aa9990c289333
+  10b1c7ba72ca42a39d93c0c101a5b677:
+    PD5DF595F: 99cc2e39cc7b47b4b87a4a9866c61a1a
+    PE34E2A4E: 7cbe31f36d90425f8f3c28c2821842a4
+  54f2039270cc4b70abcc26b26bb4b73f:
+    PD5DF595F: 17e7f6629ff34003a47fe014036dba0e
+    PE34E2A4E: 3688d1427dfe4c7281b73b5b3384815a
